@@ -1,0 +1,5 @@
+NAME="sugar-Pukllanapac"
+VERSION=11
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
